@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "movie-bot-mauslt",
+  "private_key_id": "3a62867c057900770436e06cd3bd6193a8690667",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDGeADuvX1wwI+a\nKO+JY8TGiK8BB2MkkxUVOpE2it95WVZBFMlzZoIfxz1N/6aeqsXVt45lhNSutE56\nTziXv/snjdZI3BD6HclzBdrbrro1S7KgfEhUzvnr+bGfmNjhQPdygyc0WZhqAB7j\no14iQn+5acD1kK0sl132EfaoeyQGS65IBIIb5wh9qH1IPw/61Sr9DPEm0dyXd8q9\nbIi2vCrukDk4qZJ9e3fN4sPuY6dBtJdwJwq555tbADYEWDw+DAQqtlYW53dt+oMH\n/vX+qzeBSbns/hWzMSxUto0s6+qqtOyKlGbc9c3IM/vbGIm04Ax0lDxzWwEqNYPr\ngdc5qCBnAgMBAAECggEAXgEiI/KB02GJwxGHn7IvVoAQMDMRDRZTgpoahNSTU/Vy\nKuJPJsdTc/zZdzPTdkzZ5sgJ/ODFIjjKARm76vimW85NRHZj3iw0qjQIPUyN60d/\nBI/JbM4aR2Cd9sOdWlf8vHMNoziavf5vow/SuvR3bdl+6XFM7RWHDlHk3FlzLz1c\nrLXt2gpaKnTxGgBsShXfi2jvzFEI7ov+QW598KBEXU6eCWpMJWhAvTbJeEDnEKOY\n5/zK0ZiH98hJbSUvv92zX5HDJ0BPAlZfg5p5f6kDgfELq3Lu3Wfw7eOmNp2xHGqr\nWTYHAM14WTZ5U6yfpLf5SP/3y3wIuJ9cCyB+dlIxfQKBgQDtjy8YLQ2jYkwFlQBm\nFTU0hR2KorybHY+fRvoWjKOT9ampY5dcoxFy5Sl/25wN+mWvG4CI4+rIIZR0jxMA\n3BbEoPMvi+b5ym1LhJnjjWjVZ8HNl+RToYe3D+m1UceOl+T8BmnT1W6tiiqh2CFs\nnGiPwts7oXR0UaZAskNEWpqvJQKBgQDV4AGTe1TZ6CzXLSsoNEZ/e3LT0vRvR40b\nlnjqs7RF5Bsc+LuN43MYBIhOUehXRvsrxzuhp2F6wHOTht9uexQvV8amSxvA17ko\ngP2rhcceH76g/vOMCjmH5FWGPtMYgkOtEraIZoAzifKeTMKT1mg4yMmaHsB7/eny\nDFsGdHIxmwKBgQDVAE9PtAXIeziCwMjsvxNHlhuY1LWbt3OxcqiGU2/QGLMZSEzN\nKQFaLZN6KuTPu7Y0vcoP85vt+f3sTOTTHoPjphSmiyB81D4POkPpPj/DKRciSpDV\nU74mK8R3aW4uso8EUpPM9lAYlgwHtYyyn8M5M5Py8Z9DNHqHA89AmKSdaQKBgQCT\ndF2h0OYvVmOT9xBKJ8BzJCmG4WqlTi97VcMIDd28UghfcR3eNXKknHtdhBssEUQa\nasIyMbSDbSxCCjsBcNn5ygqrnB0GV7TQuB4so48ktb44QY6ofmQrzMEqTSY9P5Jp\nQP2YDRNWdUVQ3ptIUgqJG+Xi3FDZK7afquUXDjGtAQKBgQDdnQqibrvzbCxG4r8f\n7cJX17QFLn3kq+200mz1AdPQ3IAwclj9Fk4P1CFja3w6VlDRgslNH4zzpPciq+H0\nB0NNkEuggOL3bUrugfKEKy315rd/SResQeEzbWZo6lLHWXvx63S9FAOl3V+knw8W\naRtPeUM9glHuS0Nx53Lwj3QTOw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-configurations@movie-bot-mauslt.iam.gserviceaccount.com",
+  "client_id": "111992897934551501871",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-configurations%40movie-bot-mauslt.iam.gserviceaccount.com"
+}
